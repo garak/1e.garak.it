@@ -13,3 +13,5 @@ L'unica aggiunta è questo file README.md e un file per la licenza.
 Sconsiglio assolutamente di usare questo progetto o di prendere qualsiasi pezzo
 di codice qui presente come fonte di ispirazione.
 Se ricordo bene, la grafica l'avevo fregata da un tema di php nuke :-)
+
+![screenshot](https://cloud.githubusercontent.com/assets/179866/26246929/d7a10afc-3c9b-11e7-8c69-0d11a44f572c.png)
